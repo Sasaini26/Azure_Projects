@@ -1,9 +1,11 @@
 # Azure_Projects
 
 **Overview**
+
 In this project, I have created an end-to-end data platform covering Data Ingestion, Data Transformation, Data Loading, and Reporting.
 
 **Tools and Technologies**
+
 On-premise SQL Server
 
 Azure Data Factory
@@ -19,6 +21,7 @@ Spark SQL
 Microsoft Power BI
 
 **Use Case**
+
 The goal of this project is to build an end-to-end solution by:
 
 Ingesting tables from an on-premise SQL Server database using Azure Data Factory.
