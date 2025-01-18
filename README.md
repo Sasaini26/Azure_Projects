@@ -1,19 +1,32 @@
 # Azure_Projects
 
-In this project I have created an end to end data platform right from Data Ingestion, Data Transformation, Data Loading and Reporting. 
+Overview
+In this project, I have created an end-to-end data platform covering Data Ingestion, Data Transformation, Data Loading, and Reporting.
 
-The tools that are covered in this project are,
+Tools and Technologies
+On-premise SQL Server
 
-1. On premise Sql Server
-2. Azure Data Factory
-3. Azure Data Lake Storage Gen2
-4. Azure Databricks
-5. PYSPARK
-6. SPARK SQL
-7. Microsoft Power BI
+Azure Data Factory
 
-The use case for this project is building an end to end solution by ingesting the tables from on-premise SQL Server database using Azure Data Factory and 
-then store the data in Azure Data Lake. Then Azure databricks is used to transform the RAW data to the most cleanest form of data and  finally using Microsoft 
-Power BI build an interactive dashboard. 
+Azure Data Lake Storage Gen2
+
+Azure Databricks
+
+PySpark
+
+Spark SQL
+
+Microsoft Power BI
+
+Use Case
+The goal of this project is to build an end-to-end solution by:
+
+Ingesting tables from an on-premise SQL Server database using Azure Data Factory.
+
+Storing the ingested data in Azure Data Lake.
+
+Transforming the raw data into its cleanest form using Azure Databricks.
+
+Building an interactive dashboard with Microsoft Power BI to visualize and report on the data.
 
 
